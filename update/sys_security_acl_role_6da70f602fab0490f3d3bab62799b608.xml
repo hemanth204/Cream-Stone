@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-11 14:27:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6da70f602fab0490f3d3bab62799b608</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_69202_cream_ston_hotelname.x_69202_cream_ston.administrator</sys_name>
+        <sys_package display_value="cream stone" source="x_69202_cream_ston">52968bac2f6b0490f3d3bab62799b6af</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="cream stone">52968bac2f6b0490f3d3bab62799b6af</sys_scope>
+        <sys_security_acl display_value="x_69202_cream_ston_hotelname">59a70f602fab0490f3d3bab62799b602</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6da70f602fab0490f3d3bab62799b608</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 14:27:27</sys_updated_on>
+        <sys_user_role display_value="x_69202_cream_ston.administrator" name="x_69202_cream_ston.administrator">7017cfec2f6b0490f3d3bab62799b641</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

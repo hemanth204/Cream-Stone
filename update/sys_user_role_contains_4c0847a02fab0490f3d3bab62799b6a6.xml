@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="cream_stone" name="cream_stone">880847a02fab0490f3d3bab62799b696</contains>
+        <role display_value="x_69202_cream_ston.administrator" name="x_69202_cream_ston.administrator">7017cfec2f6b0490f3d3bab62799b641</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-11 14:29:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4c0847a02fab0490f3d3bab62799b6a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cream_stone.x_69202_cream_ston.administrator</sys_name>
+        <sys_package display_value="cream stone" source="x_69202_cream_ston">52968bac2f6b0490f3d3bab62799b6af</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="cream stone">52968bac2f6b0490f3d3bab62799b6af</sys_scope>
+        <sys_update_name>sys_user_role_contains_4c0847a02fab0490f3d3bab62799b6a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 14:29:00</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
